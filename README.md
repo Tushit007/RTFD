@@ -13,7 +13,7 @@
 #### RUNNING IN LOCAL ENVIRONMENT
 ###### STEP : 1
 ```bash
-pip3 insall virtualenv
+pip3 install virtualenv
 ```
 
 ###### STEP : 2
